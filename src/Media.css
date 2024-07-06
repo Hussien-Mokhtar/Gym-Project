@@ -1,0 +1,93 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+@media(max-width:810px){
+    .man{
+      left: 45rem;
+    }
+    .right-h{
+     margin-left: 3rem;
+    }
+    .words{
+        gap: 5rem;
+        width: 100%;
+       margin-left: 5rem;
+       font-size: 15px;
+    }
+    .img-4{
+  margin-bottom: 100px;
+    }
+    .r-zone{
+        margin-left: 5rem;
+    }
+    .tybe{
+        font-size: 10px;
+        margin-left: 2rem;
+        gap: 2rem;
+    }
+    .fifth-r{
+        margin:40px;
+    position: absolute;
+    left: 50rem;
+    }
+    .left-six{
+        width: 800px;
+        font-size: 12px;
+        margin-left: 2rem;
+    }
+    .right-six{
+        margin-left: 20rem;
+    }
+}
+@media(max-width:1207px){
+    .man{
+      left: 45rem;
+    }
+    .right-h{
+     margin-left: 3rem;
+    }
+    .words{
+        gap: 5rem;
+        width: 100%;
+       margin-left: 5rem;
+       font-size: 15px;
+    }
+    .img-4{
+  margin-bottom: 100px;
+    }
+    .r-zone{
+        margin-left: 5rem;
+    }
+    .tybe{
+        font-size: 10px;
+        margin-left: 2rem;
+        gap: 2rem;
+    }
+    .fifth-r{
+        margin:40px;
+    position: absolute;
+    left: 50rem;
+    }
+    .left-six{
+        width: 800px;
+        font-size: 12px;
+        margin-left: 2rem;
+    }
+    .right-six{
+        margin-left: 20rem;
+    }
+
+}
+
+@media(max-width:1772px){
+    .man-back .animation-3{
+    margin-left: 60rem;
+    }
+    
+}
+@media(max-width:58px){
+    .man{
+      left: 45rem;
+    }
+}
